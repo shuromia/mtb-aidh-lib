@@ -1,7 +1,7 @@
 <super-manifest version="2.0">
   <middleware-manifest-list>
     <middleware-manifest>
-      <uri>https://github.com/shuromia/mtb-aidh-lib/raw/main/mtb/manifests/mtb-mw-manifest-supplement-aidh.xml</uri>
+      <uri>https://github.com/shuromia/mtb-aidh-lib/raw/refs/heads/main/manifests/mtb-super-manifest-supplement-aidh.xml</uri>
     </middleware-manifest>
   </middleware-manifest-list>
 </super-manifest>
