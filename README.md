@@ -11,9 +11,6 @@ Quick Start
 
 To add this library to a ModusToolbox project, install it from the Library Manager. Then add the following DEFINES, COMPONENTS, and CXXFLAGS to the application's Makefile:
 
-        DEFINES+= TF_LITE_STATIC_MEMORY
-        
-        COMPONENTS+= TFLM
-        COMPONENTS+= AIDH
-        
+        DEFINES+= TF_LITE_STATIC_MEMORY        
+        COMPONENTS+= TFLM        
         CXXFLAGS+= -std=c++11
