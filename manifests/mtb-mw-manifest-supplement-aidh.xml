@@ -3,7 +3,7 @@
         <name>mtb-aidh-lib</name>
         <id>mtb-aidh-lib</id>
         <uri>https://github.com/shuromia/mtb-aidh-lib</uri>
-        <desc>This library provides a pre-compiled static library AI based solution of doorhandle.
+        <desc>This library provides a pre-compiled static library AI based solution of doorhandle.</desc>
         <category>Middleware</category>
         <req_capabilities/>
         <versions>
