@@ -5,7 +5,7 @@ Usage
 Adding the Library
 To use the library in ModusToolbox v3.x, add a manifest.loc file to the .modustoolbox folder in your home directory. Inside this file, paste the following URI:
      
-        https://github.com/shuromia/mtb-tflm-lib/raw/main/manifests/mtb-super-manifest-supplement-aidh.xml
+        https://github.com/shuromia/mtb-tflm-lib/raw/main/manifests/mtb-super-manifest-supplement-tflm.xml
                 
 Quick Start
 
